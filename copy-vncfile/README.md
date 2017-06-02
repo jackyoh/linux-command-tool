@@ -3,7 +3,7 @@
 bash run-copy-vncfile.sh
 ```
 
-## Create user login password 
+## Create user login password for vnc
 ```
 # su USER
 # vncpasswd
